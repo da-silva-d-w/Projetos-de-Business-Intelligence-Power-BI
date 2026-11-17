@@ -29,3 +29,9 @@ Relatório interativo para análise de vendas, custos de envio, lucro e margem d
 Relatório voltado à análise de perfil e comportamento de clientes, desempenho de campanhas de marketing e padrões de consumo. Inclui visualizações para investigar características dos clientes, hábitos de compra e resultados das campanhas em diferentes mercados.
 
 **Tecnologias:** Power BI, Power Query e DAX.
+
+### 4 - Dashboard Comercial — Performance de Vendas
+
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
+
+Projeto de análise de dados comerciais com foco na avaliação da performance de vendas de uma empresa. O relatório explora os resultados por segmento, fabricante, categoria, ponto de venda, vendedor e região, utilizando diferentes recursos de visualização e análise do Power BI.
