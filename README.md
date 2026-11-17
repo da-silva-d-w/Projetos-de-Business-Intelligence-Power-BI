@@ -30,7 +30,7 @@ Relatório voltado à análise de perfil e comportamento de clientes, desempenho
 
 **Tecnologias:** Power BI, Power Query e DAX.
 
-### 4 - Dashboard Comercial — Performance de Vendas
+### 4 - Dashboard Comercial: Performance de Vendas
 
 ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
