@@ -1,0 +1,31 @@
+# Business Intelligence and Power BI Projects
+
+Coleção de projetos práticos de Business Intelligence e visualização de dados, desenvolvidos com Power BI. Os projetos abrangem preparação e transformação de dados, construção de relatórios interativos, análise de indicadores e apresentação de informações para apoiar a tomada de decisões.
+
+> **Status do repositório:** ![Em andamento](https://img.shields.io/badge/Status-Em%20andamento-yellow)
+
+## Projetos
+
+### 1 - Vendas Globais
+
+![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+Relatório analítico de vendas globais, com indicadores de desempenho e visualizações para explorar vendas, pedidos, descontos e lucros. Permite analisar os resultados por período, país, segmento, categoria de produto e prioridade de entrega.
+
+**Tecnologias:** Power BI e Power Query.
+
+### 2 - Vendas, Custo, Margem de Lucro e KPI
+
+![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+Relatório interativo para análise de vendas, custos de envio, lucro e margem de lucro. Inclui indicadores de desempenho, comparação com metas e visualizações que permitem explorar os resultados por categoria de produto, mercado, modo de envio e período.
+
+**Tecnologias:** Power BI, Power Query e DAX.
+
+### 3 - Análise de Campanhas de Marketing
+
+![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+Relatório voltado à análise de perfil e comportamento de clientes, desempenho de campanhas de marketing e padrões de consumo. Inclui visualizações para investigar características dos clientes, hábitos de compra e resultados das campanhas em diferentes mercados.
+
+**Tecnologias:** Power BI, Power Query e DAX.
