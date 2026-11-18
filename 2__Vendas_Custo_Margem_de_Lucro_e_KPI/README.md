@@ -1,6 +1,6 @@
 # Dashboard de Vendas, Custo, Margem de Lucro e KPI
 
-Dashboard desenvolvido no **Microsoft Power BI** para análise de desempenho financeiro e operacional, com indicadores de vendas, custos de envio, lucro e margem de lucro.
+Dashboard desenvolvido no **Microsoft Power BI** para análise de desempenho financeiro e operacional, com indicadores de vendas, custos de envio, lucro e margem de lucro. A elaboração deste projeto foi inspirada no Capítulo 3 do curso _Microsoft Power BI Para Business Intelligence e Data Science_, da Data Science Academy (DSA).
 
 ## Visualização
 
