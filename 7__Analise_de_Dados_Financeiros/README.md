@@ -7,7 +7,7 @@ Relatório desenvolvido no **Microsoft Power BI** para análise de receitas, des
 
 ### 1. Capa e Instruções
 
-Tela inicial do projeto, com a apresentação da análise financeira, seu escopo e orientações para navegação entre os painéis. Também destaca a utilização da análise de segmentação como apoio ao planejamento estratégico.
+Tela inicial do projeto, com a apresentação da análise financeira e seu escopo. Também destaca a utilização da análise de segmentação como apoio ao planejamento estratégico.
 
 ![Capa e Instruções](print_capa_e_instrucoes.png)
 
