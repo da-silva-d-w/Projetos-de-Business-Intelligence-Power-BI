@@ -6,7 +6,7 @@ Relatório desenvolvido no Microsoft Power BI para análise do perfil dos funcio
 
 ### 1. Capa e Instruções
 
-Apresenta o escopo do projeto, orientações de utilização e as oito perguntas de negócio abordadas pelo relatório.
+Apresenta o escopo do projeto e as perguntas de negócio abordadas pelo relatório.
 
 ![Capa e Instruções](print_capa_e_instrucoes.png)
 
