@@ -1,6 +1,6 @@
 # Dashboard Comercial — Performance de Vendas
 
-Relatório interativo desenvolvido no Power BI para análise da performance comercial de uma empresa, explorando o faturamento por segmento, fabricante, categoria, loja, cidade e vendedor. O projeto utiliza diferentes recursos de visualização e análise, incluindo Narrativa Inteligente, Principais Influenciadores e navegação interativa entre páginas.
+Relatório interativo desenvolvido no Power BI para análise da performance comercial de uma empresa, explorando o faturamento por segmento, fabricante, categoria, loja, cidade e vendedor. O projeto utiliza diferentes recursos de visualização e análise, incluindo Narrativa Inteligente, Principais Influenciadores e navegação interativa entre páginas. A elaboração deste projeto foi inspirada no Capítulo 5 do curso _Microsoft Power BI Para Business Intelligence e Data Science_, da Data Science Academy (DSA).
 
 ## Visualizações
 
