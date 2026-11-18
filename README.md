@@ -32,6 +32,10 @@ Relatório voltado à análise de perfil e comportamento de clientes, desempenho
 
 ### 4 - Dashboard Comercial: Performance de Vendas
 
-![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Projeto de análise de dados comerciais com foco na avaliação da performance de vendas de uma empresa. O relatório explora os resultados por segmento, fabricante, categoria, ponto de venda, vendedor e região, utilizando diferentes recursos de visualização e análise do Power BI.
+
+### 5 - Análise de Dados de RH
+
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
