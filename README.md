@@ -50,6 +50,11 @@ Relatório interativo para análise de operações logísticas, com foco no dese
 
 ### 7 - Dashboard de Análise Financeira
 
-![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-Projeto em desenvolvimento voltado à análise de dados financeiros e construção de indicadores para acompanhamento de desempenho.
+Projeto voltado à análise de dados financeiros e construção de indicadores para acompanhamento de desempenho.
+
+
+### 8 - Matriz de Balanço Patrimonial
+
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
