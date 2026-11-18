@@ -1,6 +1,6 @@
 # Dashboard Analítico de Vendas Globais
 
-Dashboard desenvolvido no **Microsoft Power BI** para análise de vendas globais, com indicadores de faturamento, lucro, volume de pedidos e distribuição geográfica das vendas.
+Dashboard desenvolvido no **Microsoft Power BI** para análise de vendas globais, com indicadores de faturamento, lucro, volume de pedidos e distribuição geográfica das vendas. A elaboração deste projeto foi inspirada no Capítulo 2 do curso _Microsoft Power BI Para Business Intelligence e Data Science_, da Data Science Academy (DSA).
 
 ## Visualização
 
