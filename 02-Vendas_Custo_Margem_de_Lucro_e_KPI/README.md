@@ -48,6 +48,16 @@ Lucro = 'Vendas'[Valor Venda] - 'Vendas'[Custo Envio]
 Margem Lucro = ROUND(DIVIDE('Vendas'[Lucro], 'Vendas'[Valor Venda]), 4)
 ```
 
+## Modelagem de Dados
+
+O modelo de dados segue uma estrutura em esquema estrela (*Star Schema*), com a tabela `Vendas` no centro e as tabelas `Pedidos`, `Clientes` e `Produtos` relacionadas a ela. Os relacionamentos possuem cardinalidade muitos para um (*:1), com direção de filtro cruzado única.
+
+| Tabela | Coluna | Tabela relacionada | Coluna relacionada | Cardinalidade | Direção do filtro cruzado |
+|---|---|---|---|---|---|
+| `Vendas` | `Pedido` | `Pedidos` | `ID Pedido` | Muitos para um (*:1) | Único |
+| `Vendas` | `Cliente` | `Clientes` | `ID Cliente` | Muitos para um (*:1) | Único |
+| `Vendas` | `Produto` | `Produtos` | `ID Produto` | Muitos para um (*:1) | Único |
+
 ## Arquivos do Projeto
 
 | Arquivo | Descrição |
