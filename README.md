@@ -12,13 +12,11 @@ Coleção de projetos práticos de Business Intelligence e visualização de dad
 
 Relatório analítico de vendas globais, com indicadores de desempenho e visualizações para explorar vendas, pedidos, descontos e lucros. Permite analisar os resultados por período, país, segmento, categoria de produto e prioridade de entrega.
 
-
 ### 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
 
 ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Relatório interativo para análise de vendas, custos de envio, lucro e margem de lucro. Inclui indicadores de desempenho, comparação com metas e visualizações que permitem explorar os resultados por categoria de produto, mercado, modo de envio e período.
-
 
 ### 3 - Análise de Campanhas de Marketing
 
@@ -26,13 +24,11 @@ Relatório interativo para análise de vendas, custos de envio, lucro e margem d
 
 Relatório voltado à análise de perfil e comportamento de clientes, desempenho de campanhas de marketing e padrões de consumo. Inclui visualizações para investigar características dos clientes, hábitos de compra e resultados das campanhas em diferentes mercados.
 
-
 ### 4 - Dashboard Comercial - Performance de Vendas
 
 ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Projeto de análise de dados comerciais com foco na avaliação da performance de vendas de uma empresa. O relatório explora os resultados por segmento, fabricante, categoria, ponto de venda, vendedor e região, utilizando diferentes recursos de visualização e análise do Power BI.
-
 
 ### 5 - Análise de Dados de RH
 
@@ -40,13 +36,11 @@ Projeto de análise de dados comerciais com foco na avaliação da performance d
 
 Relatório voltado à análise de dados de recursos humanos, explorando o perfil dos funcionários, experiência profissional, remuneração, engajamento no trabalho e elegibilidade para promoção. Inclui indicadores gerais e análises interativas por faixa etária.
 
-
 ### 6 - Análise de Dados de Logística
 
 ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Relatório interativo para análise de operações logísticas, com foco no desempenho das equipes de entrega, cumprimento de prazos, canais de distribuição, vendedores, clientes e volume de pedidos por cidade. Inclui rankings, análise temporal e classificação visual de cidades por volume de entregas.
-
 
 ### 7 - Dashboard de Análise Financeira
 
@@ -54,7 +48,12 @@ Relatório interativo para análise de operações logísticas, com foco no dese
 
 Projeto voltado à análise de dados financeiros e construção de indicadores para acompanhamento de desempenho.
 
-
 ### 8 - Matriz de Balanço Patrimonial
+
+![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+Relatório para análise da estrutura patrimonial de uma empresa, com organização hierárquica das contas do balanço, acompanhamento da evolução anual dos saldos e destaque visual de valores positivos e negativos.
+
+### 9 - Dashboard Analítico do Mercado de Ações
 
 ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
