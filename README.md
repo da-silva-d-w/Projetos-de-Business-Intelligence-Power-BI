@@ -54,7 +54,7 @@ Projeto voltado à análise de dados financeiros e construção de indicadores p
 
 Relatório para análise da estrutura patrimonial de uma empresa, com organização hierárquica das contas do balanço, acompanhamento da evolução anual dos saldos e destaque visual de valores positivos e negativos.
 
-9 - Dashboard Analítico do Mercado de Ações
+### 9 - Dashboard Analítico do Mercado de Ações
 
 ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 
