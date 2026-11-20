@@ -1,0 +1,52 @@
+{
+  "name": "Mercado de Acoes Dark",
+  "dataColors": [
+    "#118DFF",
+    "#12239E",
+    "#E66C37",
+    "#D64550",
+    "#E1C233"
+  ],
+  "background": "#1E222B",
+  "foreground": "#F3F4F6",
+  "tableAccent": "#4CC9F0",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1E222B" } },
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "fontColor": { "solid": { "color": "#F3F4F6" } }
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#4A5568" } },
+            "radius": 15
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#12151C" } },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#0D0F14" } }
+          }
+        ]
+      }
+    }
+  }
+}
