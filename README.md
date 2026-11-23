@@ -2,13 +2,11 @@
 
 Coleção de projetos práticos de Business Intelligence e visualização de dados, desenvolvidos com Power BI. Os projetos abrangem preparação e transformação de dados, construção de relatórios interativos, análise de indicadores e apresentação de informações para apoiar a tomada de decisões.
 
-> **Status do repositório:** ![Em andamento](https://img.shields.io/badge/Status-Em%20andamento-yellow)
-
 ## Projetos
 
 ### 1 - Dashboard Analítico de Vendas Globais
 
-![Completo](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Relatório analítico de vendas globais, com indicadores de desempenho e visualizações para explorar vendas, pedidos, descontos e lucros. Permite analisar os resultados por período, país, segmento, categoria de produto e prioridade de entrega.
 
