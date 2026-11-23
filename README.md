@@ -8,7 +8,7 @@ Coleção de projetos práticos de Business Intelligence e visualização de dad
 
 ### 1 - Dashboard Analítico de Vendas Globais
 
-![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Completo](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Relatório analítico de vendas globais, com indicadores de desempenho e visualizações para explorar vendas, pedidos, descontos e lucros. Permite analisar os resultados por período, país, segmento, categoria de produto e prioridade de entrega.
 
